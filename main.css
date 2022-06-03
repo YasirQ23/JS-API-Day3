@@ -17,3 +17,11 @@
     padding-right: 5px;
     border-radius: 10px;
 }
+
+#submit-btn{
+    color: black;
+    background-color:rgb(144, 244, 165);
+    border-color: black;
+    border-width: 2px;
+    border-radius: 10px;
+}
